@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Tools/Mavlink Serial Port monitor.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Tools/SkyyfishDesktopLink.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

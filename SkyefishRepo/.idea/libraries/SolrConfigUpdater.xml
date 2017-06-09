@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SolrConfigUpdater">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Configs/SolrConfigs/SolrConfigUpdater.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

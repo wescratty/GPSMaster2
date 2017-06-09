@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dhtmlxtree_pro_full">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/dhtmlx/dhtmlxTree_v30_pro_110707/dhtmlxtree_pro_full.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

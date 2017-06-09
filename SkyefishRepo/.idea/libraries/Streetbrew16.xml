@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Streetbrew16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/rim/Streetbrew/Streetbrew.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

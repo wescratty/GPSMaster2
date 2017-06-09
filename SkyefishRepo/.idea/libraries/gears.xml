@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gears">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/gears/iStock_000007408698Illustra.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/gears/extras.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

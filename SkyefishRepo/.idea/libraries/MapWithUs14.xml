@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MapWithUs14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/rim/development/signed/3.0.0-storm/MapWithUs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

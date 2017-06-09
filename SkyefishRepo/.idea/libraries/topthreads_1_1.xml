@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="topthreads-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Configs/Wildfly8Configs/SpecialDebugGoodies/topthreads-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="semantic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/extraProjectFiles/semantic_0.16.1_full/semantic.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

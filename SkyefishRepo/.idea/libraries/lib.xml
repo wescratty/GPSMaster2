@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/Gif89Encoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-logging-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-io-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jboss-system.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/xstream-benchmark-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jboss-j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-fileupload-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/scheduler-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jasper-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jboss-ejb3x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/qtclustering.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/httpclient-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/facebook-java-api-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/sanselan-0.97-incubator-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jbossall-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/sanselan-0.97-incubator-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jettison-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/twitter4j-2.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/yuicompressor-special-2.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jboss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/sanselan-0.97-incubator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/restfb-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/httpmime-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/httpcore-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jai_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jboss-ejb3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/xstream-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/oauth-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/flexjson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/recaptcha4j-0.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jasper-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/mysql-connector-java-5.1.10-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/jboss-cache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/lib/facebook-java-api-schema-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GeoServer9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/deploys/2011-07-07-nocluster/GeoServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

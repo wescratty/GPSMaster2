@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="windows com tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Tools/Mavlink Serial Port monitor/windows com tools/Setup_com0com_W7_x64_signed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Tools/Mavlink Serial Port monitor/windows com tools/Hub4com-2.1.0.0-386.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="app icon sets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/skyyfish/app icon sets/icon1res.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/skyyfish/app icon sets/icon2res.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

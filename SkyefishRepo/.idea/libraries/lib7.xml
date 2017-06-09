@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/ties/lib/apache-mime4j-core-0.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/ties/lib/httpclient-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/ties/lib/httpmime-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/ties/lib/httpcore-4.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

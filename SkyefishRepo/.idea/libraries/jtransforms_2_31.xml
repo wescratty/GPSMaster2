@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jtransforms-2.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MonkeyDo/lib/jtransforms-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

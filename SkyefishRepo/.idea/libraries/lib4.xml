@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/lib/oauth-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/lib/httpmime-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/lib/httpclient-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/lib/httpcore-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/lib/apache-mime4j-core-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/lib/droid-fu-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

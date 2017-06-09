@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="iStockphoto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/iStock_000009900103Illustra.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/iStock_000006212289Illustra.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/iStock_000005618135Illustra.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

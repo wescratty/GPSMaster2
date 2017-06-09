@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/jboss EAP extras/custom JDBC driver/mysql.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

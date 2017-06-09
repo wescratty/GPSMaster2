@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="puzzle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/puzzle/extras.zip!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/iStockphoto/puzzle/iStock_000007279493Illustra.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

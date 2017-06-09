@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PolyZoom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/alpha/kmlgrinder/absorb_holes/PolyZoom.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

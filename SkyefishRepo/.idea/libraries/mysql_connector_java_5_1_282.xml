@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.282">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Configs/Wildfly9.0.1Configs/MySQL Driver/mysql/jdbc/main/mysql-connector-java-5.1.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

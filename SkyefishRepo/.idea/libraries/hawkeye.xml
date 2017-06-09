@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hawkeye">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/Resources/HawkeyeDeliverable/hawkeye.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

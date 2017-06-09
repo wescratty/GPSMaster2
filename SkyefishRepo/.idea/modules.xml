@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/9Serve/9Serve.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/9Serve/9Serve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/Absolute/AbsoluteManage/AbsoluteManage.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/Absolute/AbsoluteManage/AbsoluteManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/Brewdoku/Brewdoku.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/Brewdoku/Brewdoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/DigiCard/DigiCard.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/DigiCard/DigiCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/FieldAgent/FieldAgent.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/FieldAgent/FieldAgent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/GeoMonkey2.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/GeoMonkey2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/KBGA/KBGA.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/KBGA/KBGA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/alpha/kmlgrinder/KMLGrinder/KMLGrinder.iml" filepath="$PROJECT_DIR$/geomonkey/alpha/kmlgrinder/KMLGrinder/KMLGrinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/alpha/kdtree/LayoutEval/LayoutEval.iml" filepath="$PROJECT_DIR$/geomonkey/alpha/kdtree/LayoutEval/LayoutEval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/MapWith.Us-ejb/src/MapWith.Us-ejb.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/MapWith.Us-ejb/src/MapWith.Us-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/MapWith.Us-resources/src/MapWith.Us-resources.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/MapWith.Us-resources/src/MapWith.Us-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/MapWith.Us-war/src/MapWith.Us-war.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/MapWith.Us-war/src/MapWith.Us-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/MapWithUs.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/MapWithUs/MapWithUs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/instinct/MapWithUs/MapWithUs1.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/instinct/MapWithUs/MapWithUs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/javaME/MapWithUs/MapWithUs2.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/javaME/MapWithUs/MapWithUs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/rim/MapWithUs/MapWithUs3.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/rim/MapWithUs/MapWithUs3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/Minebrew/Minebrew.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/Minebrew/Minebrew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/MonkeyDo/MonkeyDo.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/MonkeyDo/MonkeyDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/Pazina/Pazina.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/Pazina/Pazina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/SBLibrary/SBLibrary.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/SBLibrary/SBLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/alpha/SoundKey/SoundKey.iml" filepath="$PROJECT_DIR$/geomonkey/alpha/SoundKey/SoundKey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/Streetbrew/Streetbrew.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/Streetbrew/Streetbrew/Streetbrew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/rim/Streetbrew/Streetbrew1.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/rim/Streetbrew/Streetbrew1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/alpha/alpha.iml" filepath="$PROJECT_DIR$/geomonkey/alpha/alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/development/development.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/GeoMonkey2/development/development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/Resources/gnome-sudoku-0.7.1/gnome-sudoku-0.7.1.iml" filepath="$PROJECT_DIR$/geomonkey/Resources/gnome-sudoku-0.7.1/gnome-sudoku-0.7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/GeoMonkey3/mwu/resources-web/src/main/main.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/GeoMonkey3/mwu/resources-web/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/hawkeye/hawkeye/hawkeye-ejb/src/main/main1.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/hawkeye/hawkeye/hawkeye-ejb/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/web/src/main/main2.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/web/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/skyyfishgradle/app/src/main/main3.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/skyyfishgradle/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/streetbrew-web/src/main/main4.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/streetbrew-web/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/GeoMonkey3/mwu/ejb/src/main/main5.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/GeoMonkey3/mwu/ejb/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/resources-web/src/main/main6.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/resources-web/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/GeoMonkey3/mwu/web/src/main/main7.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/GeoMonkey3/mwu/web/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/hawkeye/hawkeye/hawkeye-web/src/main/main8.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/hawkeye/hawkeye/hawkeye-web/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/ejb/src/main/main9.iml" filepath="$PROJECT_DIR$/geomonkey/trunk/Other/Old EAP project/GeoMonkeyEAP/mwu/ejb/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/mwu/mwu.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/mwu/mwu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/mwu3/mwu3.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/mwu3/mwu3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geomonkey/mobile/trunk/android/ties/ties.iml" filepath="$PROJECT_DIR$/geomonkey/mobile/trunk/android/ties/ties.iml" />
+    </modules>
+  </component>
+</project>

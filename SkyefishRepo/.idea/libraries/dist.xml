@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/alpha/kmlgrinder/ForestGrinder/dist/ForestGrinder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/alpha/kmlgrinder/ForestGrinder/dist/KMLGrinder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

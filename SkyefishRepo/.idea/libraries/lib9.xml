@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/twitter4j-2.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jboss-cache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/._jboss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jgroups.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/xstream-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jboss-jms-api_1.1_spec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/sanselan-0.97-incubator-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/._jboss-jms-api_1.1_spec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/flexjson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/restfb-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/openid4java-full-0.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/sanselan-0.97-incubator-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jai_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jboss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/._scheduler-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/scheduler-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/facebook-java-api-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/oauth-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/facebook-java-api-schema-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/recaptcha4j-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/jboss-serialization.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/xstream-benchmark-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/yuicompressor-2.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/commons-fileupload-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/Gif89Encoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/._jboss-serialization.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geomonkey/trunk/Other/SomeOtherProjectsPossiblyDeleteLater/MapWith.Us/lib/sanselan-0.97-incubator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

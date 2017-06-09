@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scriptsAllWithGraphHopper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/map server/scriptsAllWithGraphHopper.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KMLGrinder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geomonkey/alpha/kmlgrinder/KMLGrinder/dist/KMLGrinder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
